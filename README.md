@@ -1,0 +1,2 @@
+# nikuton.store
+Advertorial
